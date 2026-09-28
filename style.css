@@ -1,0 +1,38 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    border: 2px solid red;
+}
+
+
+body {
+    background: lightpink;
+    font-family: Arial;
+}
+h1 {
+
+    font-size: 40px;
+
+    color: green; 
+
+}
+p {
+   color: rgb(141, 37, 37);  
+}
+.ertr {
+    color: green;
+    font-size: 18px;
+}
+button {
+
+   border:none;
+
+   background:rgb(240, 76, 103);
+
+   color: white;
+
+   border-radius: 10px; 
+   padding: 10px 20px; 
+}
